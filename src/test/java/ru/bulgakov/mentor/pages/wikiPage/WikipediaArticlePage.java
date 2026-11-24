@@ -1,7 +1,7 @@
-package ru.bulgakov.pages.wikiPage;
+package ru.bulgakov.mentor.pages.wikiPage;
 
 import com.codeborne.selenide.SelenideElement;
-import ru.bulgakov.pages.BasePage;
+import ru.bulgakov.mentor.pages.BasePage;
 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$;

@@ -1,7 +1,7 @@
-package ru.bulgakov.pages.yandexPage;
+package ru.bulgakov.mentor.pages.yandexPage;
 
 import com.codeborne.selenide.SelenideElement;
-import ru.bulgakov.pages.BasePage;
+import ru.bulgakov.mentor.pages.BasePage;
 
 import java.time.Duration;
 
