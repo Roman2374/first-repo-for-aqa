@@ -1,10 +1,8 @@
-package ru.bulgakov.pages.yandexPage;
+package ru.bulgakov.mentor.pages.yandexPage;
 
 import com.codeborne.selenide.SelenideElement;
-import ru.bulgakov.pages.BasePage;
-import ru.bulgakov.pages.wikiPage.WikipediaArticlePage;
+import ru.bulgakov.mentor.pages.BasePage;
 
-import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$;
 
 public class YandexSearchPage extends BasePage {
